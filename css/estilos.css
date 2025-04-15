@@ -1,0 +1,41 @@
+body{
+    background-color: #ffffff;
+    color: #000000;}
+
+
+h1{ 
+    text-align: center;
+    color: #00cecc;}
+
+    
+h2{
+    text-align: center;
+    color: #ff9922;}
+
+
+h3{
+    color: #00cecc;}
+
+
+h4{
+    color: #ff9922;}
+
+
+h5{
+    text-align: center;
+    color: #000000;}
+
+
+a{
+    text-align: center;
+    color:#02b1c9;
+    text-decoration: underline;}
+
+
+img{
+    width: 40%;
+    margin: auto;
+    display: block;
+    border-radius: 8px;
+
+}
